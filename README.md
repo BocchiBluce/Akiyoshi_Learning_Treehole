@@ -1,4 +1,2 @@
-# 建筑力学课后PPT
-nanimonai;
-Thanks for the contribution of https://github.com/Sam0230/abook-downloader;
-Thanks for the RESTRICTIONs of Higher Education Press；
+# randomly throw some learning materials
+不定期更新，随时会archive，主打的就是个随缘
